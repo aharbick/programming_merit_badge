@@ -16,7 +16,7 @@
      b. Describe the difference between licensing and owning software.
      c. Describe the differences between freeware, open source, and commercial software, and why it is important to respect the terms of use of each.
 5. Projects. Do the following:
-     a. Modify the code in [sum.rb(https://github.com/aharbick/programming_merit_badge/blob/master/sum.rb) as described in the ASSIGNMENT section of the file.
+     a. Modify the code in [sum.rb](https://github.com/aharbick/programming_merit_badge/blob/master/sum.rb) as described in the ASSIGNMENT section of the file.
      b. With your counselor’s approval, choose a second programming language and development environment, different from those used for requirement 5a and in a different industry from 5a. Then write, debug, and demonstrate a functioning program to your counselor, using that language and environment.
      c. With your counselor’s approval, choose a third programming language and development environment, different from those used for requirements 5a and 5b and in a different industry from 5a or 5b. Then write, debug, and demonstrate a functioning program to your counselor, using that language and environment.
      d. Explain how the programs you wrote for requirements 5a, 5b, and 5c process inputs, how they make decisions based on those inputs, and how they provide outputs based on the decision making.
